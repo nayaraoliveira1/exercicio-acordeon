@@ -1,4 +1,4 @@
-# Exercícios JavaScript intermediário
+# Exercício JavaScript intermediário
 
 Projeto criado para a realização de uma animação de acordeon para abrir o item e mostrar o texto escondido. <br>
 <br>
