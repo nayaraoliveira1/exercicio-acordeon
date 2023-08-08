@@ -7,7 +7,7 @@ Projeto criado para a realização de uma animação de acordeon para abrir o it
 * HTML
 * CSS
 * JS
-
+  
 <br>
 
 🔗 [Clique aqui para visualizar a página pronta.](https://nayaraoliveira1.github.io/exercicio-acordeon/)
